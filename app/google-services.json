@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877451717254",
+    "firebase_url": "https://jomqr-a12ae.firebaseio.com",
+    "project_id": "jomqr-a12ae",
+    "storage_bucket": "jomqr-a12ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877451717254:android:86d61a8d2691306b",
+        "android_client_info": {
+          "package_name": "com.jomqr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877451717254-l0qfqdvfgdsfbqu2uc9madoc5mm0ulsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jomqr.app",
+            "certificate_hash": "da47634ae1248d6a9f03139b1f95c34b51f3572b"
+          }
+        },
+        {
+          "client_id": "877451717254-hgtc5qan0uqbnondfesv76ohl5vc7d6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrr9eFQJ0d4ocmgCC-DS7k0LmdY1fjSMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877451717254-hgtc5qan0uqbnondfesv76ohl5vc7d6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
